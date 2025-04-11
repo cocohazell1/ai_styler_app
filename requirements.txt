@@ -4,7 +4,6 @@ streamlit-option-menu
 streamlit-image-comparison
 pillow
 numpy
-# opencv-python # 로컬에서는 이것도 괜찮음
 opencv-python-headless # 배포 시 권장 (GUI 의존성 제거)
 mediapipe
 requests
