@@ -1,0 +1,19 @@
+# .gitignore
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Virtual environment folders
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# IDE folders
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
